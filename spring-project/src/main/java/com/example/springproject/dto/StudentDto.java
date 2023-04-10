@@ -1,6 +1,6 @@
-package com.example.springproject;
+package com.example.springproject.dto;
 
-public class Student {
+public class StudentDto {
     private int id;
     private String name;
     private String dob;
